@@ -1,7 +1,7 @@
 
 # CLONE YOUR PROJECT
 cd ~
-git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-2e36c7b4-236a-4699-9c3a-31060d4c2a35-3584829 gnl
+git clone https://github.com/MarcusVinix/get_next_line.git gnl
 cd gnl
 norminette *.c *.h
 
