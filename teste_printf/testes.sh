@@ -1,6 +1,6 @@
 cd ~
 #clonando repositorio
-git clone https://github.com/MarcusVinix/printf.git ft_printf
+git clone git@vogsphere-v2.42sp.org.br:vogsphere/intra-uuid-150c67b7-b96f-445d-aa2b-8a31cdd6f700-3602359 ft_printf
 
 #Teste tripoullie
 echo Test Tripouille
