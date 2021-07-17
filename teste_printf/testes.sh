@@ -7,7 +7,7 @@ echo Test Tripouille
 cd ft_printf
 git clone https://github.com/Tripouille/printfTester.git
 cd printfTester
-make m
+make a
 cd ~
 
 #Teste ft_printf_test
@@ -31,6 +31,14 @@ cd ft_printf
 git clone https://github.com/Mazoise/42TESTERS-PRINTF.git
 cd 42TESTERS-PRINTF
 bash runtest.sh
+cd ~
+
+#Test do mano Paulo
+echo test do Paulo
+cd ft_printf
+git clone https://github.com/paulo-santana/ft_printf_tester.git
+cd ft_printf_tester
+sh test
 cd ~
 
 echo Cleaning
